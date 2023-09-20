@@ -13,7 +13,7 @@
   ![Json](https://img.shields.io/badge/-Json-333333?style=flat&logo=Json)
 
 ### Contact Me
-<a href="www.linkedin.com/in/agustinaromer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Agustina%20Romer-blue?style=flat-square&logo=linkedin"></a> 
+<a href="https://www.linkedin.com/in/agustinaromer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Agustina%20Romer-blue?style=flat-square&logo=linkedin"></a> 
 <a href="agustinaromer6@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-agustinaromer6@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
 
