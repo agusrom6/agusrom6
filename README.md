@@ -7,11 +7,15 @@
 - I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
 
 ### Technologies
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Json](https://img.shields.io/badge/-Json-333333?style=flat&logo=Json)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+  ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=Astro)
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
+ 
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/agustinaromer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Agustina%20Romer-blue?style=flat-square&logo=linkedin"></a> 
