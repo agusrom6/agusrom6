@@ -15,6 +15,7 @@
   ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=Astro)
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
+  ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=Vite)
  
 
 ### Contact Me
