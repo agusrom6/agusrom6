@@ -16,6 +16,7 @@
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
   ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=Vite)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git)
  
 
 ### Contact Me
