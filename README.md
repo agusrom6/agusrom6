@@ -1,11 +1,6 @@
 <h1>Hola! Soy Agustina Romer ⦮ ⦯</h1>
 <h2>Frontend Developer 🎨</h2>
 
-### Sobre mi
-- Tengo 18 años y soy de Buenos Aires, Argentina.
-- Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
-- Disfruto trabajando con el frontend porque quiero brindar la mejor experiencia visual para los usuarios que visitan mis proyectos.
-
 ### Skills
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
