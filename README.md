@@ -34,15 +34,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=agusrom6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusrom6&layout=compact&hide_border=true&theme=tokyonight" height="130" />
-</p>
-
----
-
 ### 📬 Contacto
 
 <a href="https://www.linkedin.com/in/agustinaromer">
