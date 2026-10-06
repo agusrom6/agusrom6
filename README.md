@@ -1,15 +1,15 @@
-<h1>Hola! Soy Agustina Romer ⦮ ⦯</h1>
+# Hola! Soy Agustina Romer $\color{#8b5cf6}{\text{⦮ ⦯}}$
 <h2>Fullstack Developer</h2>
 <p>
-  Estudiante de Ingeniería en Informatica (FIUBA), enfocada en construir productos completos: del frontend con React/Next.js al backend con Node.js, Python/FastAPI y PostgreSQL. Me encanta combinar código limpio con buen diseño.
+  Estudiante de Ingeniería en Informática (FIUBA), enfocada en construir productos completos: del frontend con React/Next.js al backend con Node.js, Python/FastAPI y PostgreSQL. Me encanta combinar código limpio con buen diseño.
 </p>
 
 ----
 
-### 🛠️ Skills
+###  Skills
 
 **Lenguajes**
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
@@ -32,14 +32,14 @@
 **Herramientas**
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
+
 ---
-### 📬 Contacto
+
+###  Contacto
+
 <a href="https://www.linkedin.com/in/agustinaromer">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Agustina%20Romer-blue?style=flat-square&logo=linkedin">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Agustina%20Romer-333333?style=flat-square&logo=linkedin&logoColor=white&labelColor=333333">
 </a>
 <a href="mailto:agustinaromer6@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Gmail-agustinaromer6@gmail.com-blue?style=flat-square&logo=gmail">
+  <img alt="Email" src="https://img.shields.io/badge/Gmail-agustinaromer6@gmail.com-333333?style=flat-square&logo=gmail&logoColor=white&labelColor=333333">
 </a>
-<br/>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=agusrom6&label=Profile%20views&color=0e75b6&style=flat" alt="Agustina Romer" />
